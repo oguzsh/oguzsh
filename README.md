@@ -34,6 +34,5 @@ Hi, I'm Oguzhan, a **Front-end Developer 💻** from Turkey and working at [Remo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oguzsh)](https://github.com/oguzsh/github-profile-trophy)
-[![Oguzhan's github stats](https://github-readme-stats.vercel.app/api?username=oguzsh)](https://github.com/anuraghazra/github-readme-stats)
 
 
