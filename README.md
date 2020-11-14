@@ -1,5 +1,7 @@
 ![gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
+<img src="https://profile-counter.glitch.me/oguzsh/count.svg" />
+
 [![Twitter Badge](https://img.shields.io/badge/-@oguz_sh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oguz_sh)](https://twitter.com/oguz_sh)
 [![Linkedin Badge](https://img.shields.io/badge/-oguzhanince-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzhanince/)](https://www.linkedin.com/in/oguzhanince/)
 [![Dribbble Badge](https://img.shields.io/badge/-oguzsh-ff69b4?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/oguzsh)](https://dribbble.com/oguzsh)
