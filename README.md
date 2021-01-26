@@ -37,6 +37,6 @@ Hi, I'm Oguzhan, a **Front-end Developer 💻** from Turkey and working at [Remo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzsh&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=oguzsh)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsh&layout=compact)](https://github.com/oguzsh/github-readme-stats)
 
 
