@@ -1,5 +1,3 @@
-![gif](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
-
 <h1 align="center">Hi 👋, I'm Oguzhan</h1>
 <h3 align="center">A passionate and researcher frontend developer from Turkey</h3>
 
