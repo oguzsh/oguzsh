@@ -6,7 +6,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
 
-- 🔭 I’m currently working on [RemoteTeam.com](https://www.remoteteam.com/)
+- 🔭 I’m currently working on [Gusto](https://www.gusto.com/)
 
 - 📝 I regularly write articles on ( Turkish ) [https://oguzhanince.medium.com/](https://oguzhanince.medium.com/)
 
@@ -32,6 +32,7 @@
 <h3 align="left">Backend Stack</h3>
 <p>
    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></img>
+   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-916F79.svg?logo=ruby&logoColor=white"></img>
    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></img>
    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL%20-F71490.svg?logo=graphql&logoColor=white"></img>
    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
