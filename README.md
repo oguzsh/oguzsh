@@ -2,7 +2,7 @@
 <img width="100%" src="https://i.ibb.co/ncFm7H0/OGUZHAN-INCE.png"></img>
 
 <h1>Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>A passionate and researcher software developer from Turkey</h3>
+<h3>A passionate and researcher software engineer from Turkey</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
 
