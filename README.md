@@ -88,4 +88,4 @@
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a>
 </p>
 
- ![Snake animation](https://svgshare.com/i/_CU.svg)
+ ![Snake animation](https://svgshare.com/i/fRJ.svg)
