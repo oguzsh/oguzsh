@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **oguzhan824@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RvkrxkIy5ROCgJjIUOpF-WrwOL8lqZ2f/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://read.cv/oguzsh)
 
 <h3 align="left">Frontend Stack</h3>
 <p>
