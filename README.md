@@ -10,8 +10,6 @@
 
 - 📝 I regularly write articles on ( Turkish ) [https://oguzhanince.medium.com/](https://oguzhanince.medium.com/)
 
-- 💬 Ask me about **Frontend Development**
-
 - 📫 How to reach me **oguzhan824@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://read.cv/oguzsh)
