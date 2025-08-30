@@ -12,8 +12,6 @@
 
 - 📫 Reach me at **oguzhan824@gmail.com**
 
-- 📄  My experience in detail →  [My Resume](https://read.cv/oguzsh)
-
 ---
 
 <h3 align="left">Frontend & Mobile</h3>
