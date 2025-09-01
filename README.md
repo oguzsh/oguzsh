@@ -1,6 +1,4 @@
 
-<img width="100%" src="https://i.ibb.co/ncFm7H0/OGUZHAN-INCE.png"></img>
-
 <h1>Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3>A senior engineer, AI tinkerer and research-driven builder from Turkey</h3>
 
