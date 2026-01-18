@@ -4,9 +4,9 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=oguzsh&label=Profile%20views&color=0e75b6&style=flat" alt="oguzsh" /> </p>
 
-- 🔭 I’m currently working on [Gusto](https://www.gusto.com/)
+- 🔭 I’m currently working at [Gusto](https://www.gusto.com/)
 
-- 📝 Writing in Turkish on [https://oguzhanince.medium.com/](https://oguzhanince.medium.com/)
+- 📝 Writing in Turkish in Medium [https://oguzhanince.medium.com/](https://oguzhanince.medium.com/)
 
 - 📫 Reach me at **oguzhan824@gmail.com**
 
